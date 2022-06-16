@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Deep Learning, and AI
 - 🌱 I’m currently learning Natural Languaje Processing, and Data Science tools
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me in Researh Gate: <a href="https://www.researchgate.net/profile/Aitana_Villaplana">Aitana Villaplana on ResearchGate</a>
+- 📫 How to reach me <a href="https://www.researchgate.net/profile/Aitana_Villaplana">Aitana Villaplana on ResearchGate</a>
 
 
 <!---
