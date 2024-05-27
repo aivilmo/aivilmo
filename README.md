@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aivilmo
 - 👀 I’m interested in Machine Learning, Deep Learning, and AI
 - 🌱 I’m currently learning Natural Languaje Processing, and Data Science tools
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me <a href="https://www.researchgate.net/profile/Aitana_Villaplana">Aitana Villaplana on ResearchGate</a>
+- 💞️ I’m looking to collaborate in a company or organisation with the same interests
+- 📫 How to reach me <a href="https://www.researchgate.net/profile/Aitana_Villaplana">Aitana Villaplana on ResearchGate</a> or <a href="https://www.linkedin.com/in/aitana-villaplana-moreno/">Aitana Villaplana on LinkedIn</a>
 
 
 <!---
